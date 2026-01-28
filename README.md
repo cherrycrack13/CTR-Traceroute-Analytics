@@ -14,3 +14,4 @@ Si deseas ejecutarlo desde el código fuente:
 2. Instala las dependencias:
    ```bash
    pip install -r requirements.txt
+🛡️ Seguridad: Puedes revisar el análisis de este ejecutable en VirusTotal para tu tranquilidad: https://www.virustotal.com/gui/file/fbe1abcc83b0e1514656f9738ed681102b86e410370cbe2c944e5c3a58a78968/detection
