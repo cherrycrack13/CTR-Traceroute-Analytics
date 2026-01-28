@@ -1,0 +1,4 @@
+customtkinter
+matplotlib
+requests
+pysnmp-lextudio
